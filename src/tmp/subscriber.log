@@ -1,0 +1,11 @@
+2024-04-26 21:49:24,026 Ч subscriber_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч ѕодписчик получил id: 45bfda...
+2024-04-26 21:49:24,026 Ч subscriber_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч sub_id: 45bfda... Ч ѕодключение к брокеру broker.emqx.io
+2024-04-26 21:49:24,389 Ч subscriber_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч sub_id: 45bfda... Ч »дет прослушка по теме lab/leds/glebiks
+2024-04-26 21:49:38,786 Ч subscriber_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч sub_id: 45bfda... Ч ѕолученное сообщение: "Hello world"
+2024-04-26 21:49:40,787 Ч subscriber_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч sub_id: 45bfda... Ч ѕолученное сообщение: "Hello world"
+2024-04-26 21:49:42,788 Ч subscriber_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч sub_id: 45bfda... Ч ѕолученное сообщение: "Hello world"
+2024-04-26 21:49:44,789 Ч subscriber_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч sub_id: 45bfda... Ч ѕолученное сообщение: "Hello world"
+2024-04-26 21:50:00,053 Ч subscriber_logger Ч WARNING Ч Windows-10-10.0.22631-SP0 Ч sub_id: 45bfda... Ч ѕрослушка закончена раньше времени
+2024-04-26 21:50:00,370 Ч subscriber_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч ѕодписчик получил id: d8ef1e...
+2024-04-26 21:50:00,370 Ч subscriber_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч sub_id: d8ef1e... Ч ѕодключение к брокеру broker.emqx.io
+2024-04-26 21:50:00,500 Ч subscriber_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч sub_id: d8ef1e... Ч »дет прослушка по теме lab/leds/glebiks

@@ -1,0 +1,18 @@
+2024-04-26 21:49:31,199 Ч publisher_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч »здатель получил id: 0cc2e9...
+2024-04-26 21:49:31,199 Ч publisher_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч pub_id: 0cc2e9... Ч ѕодключение к брокеру broker.emqx.io
+2024-04-26 21:49:35,144 Ч publisher_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч pub_id: 0cc2e9... Ч Ѕудет 4 публикаций
+2024-04-26 21:49:37,651 Ч publisher_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч pub_id: 0cc2e9... Ч »дет публикаци€ по теме lab/leds/glebiks с таким сообщением: "Hello world"
+2024-04-26 21:49:37,651 Ч publisher_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч pub_id: 0cc2e9... Ч ќтправлено сообщение "Hello world" #1
+2024-04-26 21:49:39,651 Ч publisher_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч pub_id: 0cc2e9... Ч ќтправлено сообщение "Hello world" #2
+2024-04-26 21:49:41,653 Ч publisher_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч pub_id: 0cc2e9... Ч ќтправлено сообщение "Hello world" #3
+2024-04-26 21:49:43,654 Ч publisher_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч pub_id: 0cc2e9... Ч ќтправлено сообщение "Hello world" #4
+2024-04-26 21:49:45,655 Ч publisher_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч pub_id: 0cc2e9... Ч ѕубликаци€ закончена
+2024-04-26 21:50:30,718 Ч publisher_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч »здатель получил id: b95d15...
+2024-04-26 21:50:30,719 Ч publisher_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч pub_id: b95d15... Ч ѕодключение к брокеру broker.emqx.io
+2024-04-26 21:50:37,550 Ч publisher_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч pub_id: b95d15... Ч Ѕудет 4 публикаций
+2024-04-26 21:50:43,127 Ч publisher_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч pub_id: b95d15... Ч »дет публикаци€ по теме lab/leds/glebiks с таким сообщением: "Bye world"
+2024-04-26 21:50:43,127 Ч publisher_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч pub_id: b95d15... Ч ќтправлено сообщение "Bye world" #1
+2024-04-26 21:50:45,128 Ч publisher_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч pub_id: b95d15... Ч ќтправлено сообщение "Bye world" #2
+2024-04-26 21:50:47,129 Ч publisher_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч pub_id: b95d15... Ч ќтправлено сообщение "Bye world" #3
+2024-04-26 21:50:49,131 Ч publisher_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч pub_id: b95d15... Ч ќтправлено сообщение "Bye world" #4
+2024-04-26 21:50:51,132 Ч publisher_logger Ч INFO Ч Windows-10-10.0.22631-SP0 Ч pub_id: b95d15... Ч ѕубликаци€ закончена
